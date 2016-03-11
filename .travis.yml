@@ -25,6 +25,7 @@ before_install:
 
 script: 
  - $CXX --version
+ - g++ --version
  - qmake
  - cat Makefile
  - make
