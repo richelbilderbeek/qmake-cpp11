@@ -2,6 +2,7 @@ TEMPLATE = app
 CONFIG += console
 CONFIG -= app_bundle
 CONFIG -= qt
-QMAKE_CXXFLAGS += -std=c++11 -Wall -Wextra -Weffc++ -Werror
+CONFIG += c++11
+QMAKE_CXXFLAGS += -Wall -Wextra -Weffc++ -Werror
 SOURCES += main.cpp
 
