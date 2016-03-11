@@ -1,6 +1,7 @@
 # qmake-cpp11
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/qmake-cpp11.svg?branch=master)](https://travis-ci.org/richelbilderbeek/qmake-cpp11)
+[![codecov.io](https://codecov.io/github/richelbilderbeek/qmake-cpp11/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/qmake-cpp11?branch=master)
 
 C++ example project that uses qmake and C++11 to compile.
 
