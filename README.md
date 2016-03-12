@@ -9,6 +9,7 @@ Goal is to:
 
  * Compile with C++11 support, currently using `g++` only
  * Travis CI to check if it compiles correctly
+ * Shows the code coverage by `codecov`
 
 # I want to add `clang` support
 
